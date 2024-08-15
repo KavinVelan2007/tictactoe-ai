@@ -1,0 +1,2 @@
+Prerequisites:
+  pygame-ce
